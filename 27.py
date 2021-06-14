@@ -1,4 +1,4 @@
-f = open("/home/kastunichest/Загрузки/27_B.txt")
+f = open("27_B.txt")
 N = int(f.readline())
 summa = 0
 minim = 100000
